@@ -15,9 +15,7 @@
       <ul>
         <li> Learning more and more about the world of technology every single day.</li>
         <li> Actively looking for real-world projects and my first software engineering job.</li>
-        <li> Passionate about continuous learning, innovation, and developing innovative technological solutions.</li>
-        <li> How to reach me: <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a></li>
-      </ul>
+        <li> Passionate about continuous learning, innovation, and developing innovative technological solutions.</li>      </ul>
     </td>
   </tr>
 </table>
