@@ -1,25 +1,30 @@
-<h1 align="center">Hi there, I'm lykDev</h1>
-<h3 align="center">A passionate Software Developer from Brasil 🚀</h3>
+<!-- Título em inglês com saudação -->
+<h1 align="center">Hi there, I'm IykDev</h1>
+<h3 align="center">A passionate Software Developer from Brazil 🚀</h3>
 
 <br/>
 
+<!-- Seção do GIF animado à esquerda e "About Me" traduzido à direita -->
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/L8K62iTSKCGM6tsAZ3/giphy.gif" width="350" />
+      <img src="https://raw.githubusercontent.com/lykdev/lykdev/main/hacker-dev.gif" width="350" />
     </td>
     <td width="50%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>Learning more and more about the tech world every single day.</li>
-        <li>Actively seeking real-world projects and my <b>first software engineering job</b>.</li>
-        <li>Passionate about continuous learning, innovation, and building innovative tech solutions.</li>
+        <li>Learning more and more about the world of technology every single day.</li>
+        <li> Actively looking for real-world projects and my first software engineering job.</li>
+        <li> Passionate about continuous learning, innovation, and developing innovative technological solutions.</li>
+        <li> How to reach me: <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a></li>
       </ul>
     </td>
   </tr>
 </table>
+
 <br/>
 
+<!-- Ícones das Linguagens e Ferramentas -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
