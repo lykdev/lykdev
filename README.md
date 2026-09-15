@@ -1,6 +1,6 @@
 <!-- Título em inglês com saudação -->
 <h1 align="center">Hi there, I'm IykDev</h1>
-<h3 align="center">A passionate Software Developer from Brazil 🚀</h3>
+<h3 align="center">Software Developer</h3>
 
 <br/>
 
@@ -8,12 +8,12 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/lykdev/lykdev/main/hacker-dev.gif" width="350" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50cd.gif" width="350" />
     </td>
     <td width="50%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>Learning more and more about the world of technology every single day.</li>
+        <li> Learning more and more about the world of technology every single day.</li>
         <li> Actively looking for real-world projects and my first software engineering job.</li>
         <li> Passionate about continuous learning, innovation, and developing innovative technological solutions.</li>
         <li> How to reach me: <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a></li>
