@@ -1,19 +1,20 @@
-<h1 align="center">Hi there, I'm IykDev</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&repeat=true&lines=Hi+there%2C+I'm+lykDev;I'am+Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
 <br/>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=430&height=100&lines=Building+Enterprise+Solutions;Full-Stack+Engineering;API+Gateways+%26+Microservices;Clean+Architecture+%26+Security" alt="Typing SVG" /></a>
+    <td align="center" width="0%">
+      <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="480" />
     </td>
-    <td width="50%">
-      <h3>👨‍💻 About Me</h3>
+    <td width="55%">
+      <h2 align="center"> Sobre mim</h2>
       <ul>
-        <li> Building scalable real-world systems and high-performance architectures.</li>
-        <li> Focused on clean code, enterprise security, and robust backend engineering.</li>
-        <li> Passionate about continuous learning, modern tech stacks, and innovative solutions.</li>
+        <li> Criando e estudando a criação de sistemas organizados, do planejamento ao deploy</li>
+        <li> Foco em escrever um código limpo, usando boas práticas como SOLID e testes</li>
+        <li> Sempre estudando tecnologias modernas para buscar soluções cada vez melhores</li>
       </ul>
     </td>
   </tr>
@@ -21,7 +22,8 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
@@ -45,3 +48,26 @@
 </p>
 
 <br/>
+
+<h2 align="center">📊 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lykDev&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+<h2 align="center">🌐 Contato</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-npmrote-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:radianteato5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-radianteato5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lykDev&style=for-the-badge&color=61DAFB" alt="profile views" />
+</p>
